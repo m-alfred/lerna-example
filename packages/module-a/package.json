@@ -1,5 +1,5 @@
 {
-  "name": "module-a",
+  "name": "@alfred/module-a",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "miaokefu <269436241@qq.com>",
@@ -20,6 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "module-b": "^0.0.0"
+    "lodash": "^4.17.20",
+    "@alfred/module-b": "^0.0.0"
   }
 }
