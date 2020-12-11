@@ -1,6 +1,6 @@
 {
   "name": "@alfred/module-a",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "miaokefu <269436241@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@alfred/module-b": "^0.0.1",
+    "@alfred/module-b": "^0.0.2",
     "lodash": "^4.17.20"
   },
   "gitHead": "25b4515e277008b7bc3a13913700b4a67d2612ae"
