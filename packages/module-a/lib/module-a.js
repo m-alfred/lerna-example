@@ -1,5 +1,5 @@
 'use strict';
-const moduleB = require('@alfred/module-b');
+const moduleB = require('@m_alfred/module-b');
 console.log('moduleB:', moduleB());
 
 module.exports = moduleA;
