@@ -1,6 +1,6 @@
 {
   "name": "@m_alfred/module-a",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "miaokefu <269436241@qq.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
     "lint": "eslint --fix --ext .js ./"
   },
   "dependencies": {
-    "@m_alfred/module-b": "^0.0.4",
+    "@m_alfred/module-b": "^0.0.5",
     "axios": "^0.21.0",
     "lodash": "^4.17.20"
   },
