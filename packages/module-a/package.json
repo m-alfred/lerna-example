@@ -26,7 +26,7 @@
     "axios": "^0.21.0",
     "lodash": "^4.17.20"
   },
-  "gitHead": "9aaad129f94115683b61cd96cabde0b021a709ee",
+  "gitHead": "30c5809fcebf7eacd9d07e29de4a549c38bb9fc8",
   "devDependencies": {
     "eslint": "^7.15.0",
     "eslint-config-airbnb": "^18.2.1",

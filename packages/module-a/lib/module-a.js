@@ -1,7 +1,7 @@
 const moduleB = require('@m_alfred/module-b');
 
 function moduleA() {
-  return 'it\'s module a version: 0.0.6';
+  return 'it\'s module a version: 0.0.7';
 }
 
 console.log('moduleB:', moduleB());
