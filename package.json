@@ -2,9 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "lint": "eslint --fix --ext .js ./"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
