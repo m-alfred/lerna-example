@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "publish": "lerna publish",
     "lint": "eslint --fix --ext .js ./"
@@ -8,8 +11,5 @@
   "devDependencies": {
     "alfred-flexible": "^1.0.0",
     "lerna": "^3.22.1"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+  }
 }
