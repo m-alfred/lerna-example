@@ -7,6 +7,7 @@ const config = {
       jsx: true,
     },
   },
+  root: true,
   extends: [
     // including ECMAScript 6+ and React.
     'airbnb',
